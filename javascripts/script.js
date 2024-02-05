@@ -274,4 +274,4 @@ userData?.songs.sort((a, b) => {
 });
 
 renderSongs(userData?.songs);
-setPlayButtonAccessibleText();;
+setPlayButtonAccessibleText();
